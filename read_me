@@ -1,0 +1,4 @@
+Objetivo: Prever o nivel de poluição na China em pm2.5 através de uma rede neural recorrente
+utilizando a base de dados 'poluicao.csv'
+
+Base de dados 2010 a 2014, o modelo de previsão é feito de hora em hora
